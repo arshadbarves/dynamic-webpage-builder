@@ -1,0 +1,16 @@
+.MuiButton-outlinedPrimary {
+    width: 100%;
+}
+
+.App {
+    text-align: center;
+}
+
+.MuiTextField-root {
+    width: 100%;
+    justify-content: center;
+}
+
+.form {
+    margin: 50px;
+}
